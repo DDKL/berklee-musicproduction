@@ -1,0 +1,25 @@
+Lecture 3: The Mixer
+
+Effects Categories:
+
+	1. Dynamic Effect: related to amplitude.
+		a. Compressors
+		b. Limiters
+		c. Expanders
+		d. Noise Gates (or just "gates")
+	
+	2. Delay Effect: related to propagation principle of sound, adding slight delays to the signal. Illusion of 3D.
+		a. Reverbs
+		b. Delays
+		c. Phasers
+		d. Flangers
+		e. Choruses
+		
+	3. Filter Effect: related to the timbre (the quality) of sound. "Cut the highs, boost the lows."
+		a. High Pass Filter
+		b. Low Pass Filter
+		c. Band Pass Filter
+		d. Parametric EQ
+		e. Graphic EQ
+		
+Signal flow is related to how to process things.
