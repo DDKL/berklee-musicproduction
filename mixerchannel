@@ -1,0 +1,37 @@
+Hi. My name is Duke. I love music production and everything about it. Let's get started.
+
+I know the concept of signal flow can be quite difficult to understand for many people. Here we are eager to learn practical tips to learn how to produce likebHardwell or some other producer you may enjoy. Then BAM. Signal flow theory. If you haven't really paid attention to the lecture on audio signal flow then read on, because I believe this is something that every aspiring producer should know in order to perfect their song .But if you have paid full attention to the lecture, I'd suggest you to still read to once again appreciate with me the beauty of how it all works:
+
+Mixing is modular. 
+
+Sound moves from the top to bottom. Input at the top, output at the bottom. Input meaning, for example, you plug your guitar with your TS cable into the top of the mixer board. Say you select channel six. When you plug that in and turn on everything, the electrical sound produced by the electric guitar will ride along the TS cable. The sound will ride from the guitar and slip through through channel six. At the end of the channel, the sound come face to face with the fader.
+
+So a signal flow pretty much flows from the top to the bottom. While this is case for most of the time, there are some places where the signal flow doesn't move from top to bottom. Let's talk about them as we go there. Trust me, the professor said so, not me.
+
+At the top of the mixing board, you have the input section (for example, plugging in your electrical guitar). There are the XLR (for mic) and line (for a line level source) inputs. Some mixing boards do have the added bonus of labeling the line inputs has balanced or unbalanced.
+
+Then, after the input section, just below it is an input trim control, and there will be a knob which is controls the input level (related to amplitude). 
+
+The input section plus the input trim control section combine to be called the preamp section. You use it to take in inputs and set their levels, also known as controlling their volume.
+
+Then the input receives and sends the signal to the end! Wait.. don't you want to sort of 'edit' the sound and make it sound more awesome? Keep reading to find out.
+
+After and just below the preamp section is the insert section. 
+
+You use the insert section to add external devices into the signal/sign stream. So, when the preamp section receives the signal, it does its job (which is to bring the level up to line level) then it sends the "completed" signal out of the device. That signal is then transferred to another effect, such as a compressor EQ, which is an external device. When the signal is transferred to an external device, the external device "transforms" the sound by the external device's design/purpose. So a compressor EQ would do compressing stuff on the signal. After it does that, it sends back the signal to the big daddy mixing board.
+ 
+ This is all done with the use of the insert cable. There are three associated cables: TRS cable (connected via the back of the mixing board near the top) and the two TS cables, one of which receives the sound, gives it to the external device, then the external device does its thing and sends the 'refined' signal back, but this time, with a different cable. So an input cable and an output cable.
+  
+After  all that external processing (EQ, effects, etc.), the signal's next destination will be a series of knobs that is not completely in order: AUX, EQ, PAN. For example, PAN knob comes after the fader. But it doesn't matter at this point.
+ 
+ Aux sends (auxiliary sends/additional sends) allow you to route a track to more than one place. Then, we have an EQ section, typically three with High EQ, Med EQ, and Low EQ. THere is the set of pan knob. Pan knob controls the level between the two channels. Yes, two, not one. 
+ 
+ When you play your guitar into the mixer, you're sending one channel, or mono track. It's just one track. Like just a single guitar. But the mixer adds another channel, creating a stereo track. It gives a fuller timbre to the signal. If we had one ear, mono would be acceptable, but since we have an extra ear to hear sound from every direction, a stereo is preferred for listening. So, input = mono, output = stereo. What does this have to do with the pan knobs?
+   
+   If you rotate the pan knob to the right, then you'll hear more right speaker, vice versa. Two channels = able to turn off one, etc. 
+   
+   After the pan knob, there is the mute button, which, you guessed it, mutes the sound of the track.
+
+Then, the solo button isolates that specific track, muting all other tracks.
+
+Finally, the volume fader controls the volume, either amplifying (making it louder) or attenuating it.
